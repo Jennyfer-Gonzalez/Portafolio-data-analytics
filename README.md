@@ -1,2 +1,2 @@
 # Portfolio-data-analytics
-portfolio-data-analytics - Jennyfer González
+data-analytics-portfolio - Jennyfer González
