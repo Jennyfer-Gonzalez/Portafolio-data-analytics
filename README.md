@@ -1,2 +1,2 @@
-# Portafolio-data-analytics
-Portafolio profesional de Data Analytics - Jennyfer González
+# Portfolio-data-analytics
+portfolio-data-analytics - Jennyfer González
